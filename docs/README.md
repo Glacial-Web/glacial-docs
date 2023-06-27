@@ -1,3 +1,3 @@
-# Headline
+# Glacial Multimedia WP Documentation
 
-> An awesome project.
+> 
